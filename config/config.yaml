@@ -21,7 +21,7 @@ feishu:
 
 # 定时任务配置
 schedule:
-  time: "17:00"  # 每日执行时间
+  time: "15:50"  # 每日执行时间
 
 # 数据更新配置
 update:
